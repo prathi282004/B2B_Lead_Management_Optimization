@@ -1,0 +1,195 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="XaV5kJhDekVG2P41UPRT">
+    <mxGraphModel dx="2200" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lead Captured&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-2" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="100" as="sourcePoint" />
+            <mxPoint x="380" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#ffffff;fillColor=#60a917;strokeColor=#2D7600;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Automatic CRM Entry&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="280" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-4" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-3" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;fontColor=light-dark(#ffffff, #ede9e9);strokeColor=default;textShadow=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Assign Lead to Sales Rep&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="280" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;labelBackgroundColor=none;labelBorderColor=none;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Automated First-Contact Reminder&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="280" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-9" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-5" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-10" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-6" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="380" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-19" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5aI9xK9gf2Hq9io1tPRN-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="655" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Schedule Follow - up with Due Date &lt;/b&gt;(Mandatory in CRM)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="280" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Lead Qualified?&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="280" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Automated Follow-up Reminder&lt;/b&gt; (Before Due Date)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="280" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-25" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-24" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.3333" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="850" />
+            </Array>
+            <mxPoint x="660" y="780" as="sourcePoint" />
+            <mxPoint x="380" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1150" as="sourcePoint" />
+            <mxPoint x="390" y="1150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;First Contact Completed &lt;/b&gt;(Logged in CRM)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="200" x="280" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-30" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-29" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="380" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Lead Qualification &lt;/b&gt;(using a standard checklist)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="280" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-32" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-31" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="600" as="sourcePoint" />
+            <mxPoint x="380" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-36" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-22" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" target="5aI9xK9gf2Hq9io1tPRN-37" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="740" as="sourcePoint" />
+            <mxPoint x="560" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;Yes&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="80" x="470" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-41" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5aI9xK9gf2Hq9io1tPRN-43">
+          <mxGeometry relative="1" x="-0.8286" as="geometry">
+            <mxPoint x="740" y="620.13" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-38" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Qualified Lead Handed Off to Sales/ AE&lt;/b&gt; (CRM updated)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="530" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;End&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="760" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Flag as Overdue &amp;amp; Notify Sales Manager&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="560" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-45" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-44" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1030" y="1140" as="sourcePoint" />
+            <mxPoint x="660" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-46" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="5aI9xK9gf2Hq9io1tPRN-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="660" as="sourcePoint" />
+            <mxPoint x="620" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;No&lt;/b&gt; (Nuture/ Needs More Engagement)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="170" x="380" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-50" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="920.1261261261261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-51" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="920.1261261261261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-48" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Follow-up Completed by Due Date?&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="280" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;No&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="490" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Yes&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Complete or Reschedule Follow-up&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="560" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Update CRM &amp;amp; Reassess Qualification&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="40" y="885" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-56" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-54" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5aI9xK9gf2Hq9io1tPRN-55" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.0097" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="1020" />
+            </Array>
+            <mxPoint x="280" y="1020" as="sourcePoint" />
+            <mxPoint x="120" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-57" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5aI9xK9gf2Hq9io1tPRN-22" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="200" y="620" as="sourcePoint" />
+            <mxPoint x="220" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;No&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Disqualified - CRM Updated&lt;/b&gt; (Reason Recorded)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="220" x="-20" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-60" edge="1" parent="1" source="5aI9xK9gf2Hq9io1tPRN-59" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.467;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="5aI9xK9gf2Hq9io1tPRN-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="82.74" y="520" />
+            </Array>
+            <mxPoint x="250" y="710" as="sourcePoint" />
+            <mxPoint x="300" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5aI9xK9gf2Hq9io1tPRN-61" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.107;entryY=1.034;entryDx=0;entryDy=0;entryPerimeter=0;" target="5aI9xK9gf2Hq9io1tPRN-59" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint y="1000" />
+            </Array>
+            <mxPoint x="120" y="1000" as="sourcePoint" />
+            <mxPoint x="10" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
